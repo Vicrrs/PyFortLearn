@@ -1,4 +1,4 @@
-O projeto **PyFortStat** é uma biblioteca estatística destinada a combinar a flexibilidade do Python com a eficiência computacional do Fortran para oferecer uma ferramenta poderosa focada em aplicações de machine learning. O objetivo é proporcionar uma interface amigável em Python que permita aos usuários acessar rotinas de cálculo estatístico de alto desempenho escritas em Fortran, garantindo rapidez e precisão nos cálculos.
+O projeto **PyFortLearn** é uma biblioteca estatística destinada a combinar a flexibilidade do Python com a eficiência computacional do Fortran para oferecer uma ferramenta poderosa focada em aplicações de machine learning. O objetivo é proporcionar uma interface amigável em Python que permita aos usuários acessar rotinas de cálculo estatístico de alto desempenho escritas em Fortran, garantindo rapidez e precisão nos cálculos.
 
 ### Principais Características
 
